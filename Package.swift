@@ -1,25 +1,25 @@
-// swift-tools-version:5.5
+// swift-tools-version: 5.6
 
 import PackageDescription
 
 let package = Package(
     name: "NaverThirdPartyLogin",
     platforms: [
-        .iOS(.v13)
+        .iOS(.v13),
     ],
     products: [
         .library(
             name: "NaverThirdPartyLogin",
             targets: [
-                "NaverThirdPartyLogin"
+                "NaverThirdPartyLogin",
             ]
-        )
+        ),
     ],
     targets: [
         .binaryTarget(
             name: "NaverThirdPartyLogin",
-            url: "https://github.com/jaemyeong/naveridlogin-sdk-ios-spm/releases/download/4.1.3/NaverThirdPartyLogin.xcframework.zip",
-            checksum: "2c34910852bb5ff327808fc8c904cdfa6da969c8f8457a60d1117ad360b59e44"
-        )
+            url: "https://github.com/jaemyeong/naveridlogin-sdk-ios-spm/releases/download/4.1.4/NaverThirdPartyLogin.xcframework.zip",
+            checksum: "56723a122fd87a3e95e58b4dd6eb0507861792da317905155f004fe1f30868ac"
+        ),
     ]
 )
