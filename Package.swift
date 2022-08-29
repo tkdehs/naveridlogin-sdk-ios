@@ -18,8 +18,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "NaverThirdPartyLogin",
-            url: "https://github.com/jaemyeong/naveridlogin-sdk-ios-spm/releases/download/4.1.4/NaverThirdPartyLogin.xcframework.zip",
-            checksum: "56723a122fd87a3e95e58b4dd6eb0507861792da317905155f004fe1f30868ac"
+            url: "https://github.com/jaemyeong/naveridlogin-sdk-ios-spm/releases/download/4.1.5/NaverThirdPartyLogin.xcframework.zip",
+            checksum: "43463dcfc323da9dc7afb0c472976e632822c47ead313382f098720869ce2b26"
         ),
     ]
 )

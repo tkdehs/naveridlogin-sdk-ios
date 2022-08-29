@@ -2,7 +2,7 @@
 
 set -e
 
-VERSION="v4.1.4"
+VERSION="v4.1.5"
 
 git clone --depth=1 --branch="${VERSION}" https://github.com/naver/naveridlogin-sdk-ios.git
 
