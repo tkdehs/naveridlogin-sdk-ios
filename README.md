@@ -2,7 +2,7 @@
 
 [NaverThirdPartyLogin](https://github.com/naver/naveridlogin-sdk-ios) 비공식 스위프트 패키지.
 
-NaverThirdPartyLogin v4.1.4 버전을 사용하여 제작하였습니다.
+NaverThirdPartyLogin v4.1.5 버전을 사용하여 제작하였습니다.
 
 ## Requirements
 
@@ -15,7 +15,7 @@ NaverThirdPartyLogin v4.1.4 버전을 사용하여 제작하였습니다.
 ### Swift Package Manager
 
 ```swift
-.package(url: "https://github.com/jaemyeong/naveridlogin-sdk-ios-spm.git", .upToNextMajor(from: "4.1.4"))
+.package(url: "https://github.com/jaemyeong/naveridlogin-sdk-ios-spm.git", .upToNextMajor(from: "4.1.5"))
 ```
 
 ## Usage
