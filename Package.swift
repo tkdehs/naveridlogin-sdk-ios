@@ -1,12 +1,9 @@
-// swift-tools-version: 5.6
+// swift-tools-version: 5.8
 
 import PackageDescription
 
 let package = Package(
     name: "NaverThirdPartyLogin",
-    platforms: [
-        .iOS(.v13),
-    ],
     products: [
         .library(
             name: "NaverThirdPartyLogin",

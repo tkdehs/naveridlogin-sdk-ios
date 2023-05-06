@@ -1,14 +1,13 @@
 # NaverThirdPartyLogin
 
-[NaverThirdPartyLogin](https://github.com/naver/naveridlogin-sdk-ios) 비공식 스위프트 패키지.
+## Overview
 
-NaverThirdPartyLogin v4.1.5 버전을 사용하여 제작하였습니다.
+NAVER에서 SPM 지원 안 해줘서 내가 쓸려고 만든 패키지.
 
 ## Requirements
 
-- macOS 12.5.1
-- Xcode 13.4.1
-- Swift 5.6
+- macOS Ventura 13.3.1 (a)
+- Xcode 14.3
 
 ## Installation
 
@@ -25,14 +24,13 @@ import NaverThirdPartyLogin
 
 let connection = NaverThirdPartyLoginConnection.getSharedInstance()
 ```
+## Documentation
+
+- [NaverThirdPartyLogin](https://developers.naver.com/docs/login/ios/)
 
 ## References
 
 - [NaverThirdPartyLogin](https://github.com/naver/naveridlogin-sdk-ios)
-
-## License
-
-- [MIT](LICENSE)
 
 ## Author
 
