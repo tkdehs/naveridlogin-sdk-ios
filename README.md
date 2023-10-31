@@ -31,7 +31,3 @@ let connection = NaverThirdPartyLoginConnection.getSharedInstance()
 ## References
 
 - [NaverThirdPartyLogin](https://github.com/naver/naveridlogin-sdk-ios)
-
-## Author
-
-[Jaemyeong Jin](https://github.com/jaemyeong) ([jaemyeong@me.com](mailto:jaemyeong@me.com))
